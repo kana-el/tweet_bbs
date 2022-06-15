@@ -1,0 +1,181 @@
+body{
+	width: 100%;
+	background-color: #dbedf0;
+}
+
+
+.wrapper{
+	width: 980px;
+	display: flex;
+	justify-content: space-around;
+	margin: 10px auto 10px auto;
+}
+
+.sidearea{
+	width: 260px;
+	margin-left: 5px;
+}
+
+.form1{
+  width: 240px;
+	margin-top: 60px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.form2{
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.label1{
+  padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 3px;
+	font-weight: bold;
+	border-width: 0 0 0 4px;
+	border-style: solid;
+	border-color: #3b82c4;
+}
+
+.email{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.label2{
+  padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 3px;
+	font-weight: bold;
+	border-width: 0 0 0 4px;
+	border-style: solid;
+	border-color: #3b82c4;
+}
+
+.password{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.button1{
+  height: 30px;
+	width: 100px;
+	background-color: #dddddd;
+	border-color: #dddddd;
+	border-radius: 10px;
+  font-weight: bold;
+	font-size: 15px;
+}
+
+.entry{
+  margin-top: 30px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 3px;
+  font-weight: bold;
+  border-width: 0 0 0 4px;
+	border-style: solid;
+	border-color: #3b82c4;
+}
+
+
+.mainarea{
+	display: flex;
+	flex-direction: column;
+	width: 700px;
+	margin-right: 5px;
+}
+
+
+
+.form_1{
+	display: flex;
+	flex-direction: column;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 650px;
+}
+
+.form_2{
+	display: flex;
+	flex-direction: column;
+	width: 630px;
+	margin-top: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+}
+
+.form_2 h2{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	border-width: 0 0 0 6px;
+	border-style: solid;
+	border-color: #3b82c4;
+}
+
+.message1{
+	width: 650px;
+	margin-top: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.message2{
+	display: flex;
+	flex-direction: row;
+	border-style: solid;
+	border-width: 2px 0 0 0;
+	border-color: #888888;
+}
+
+.img2{
+	width: 70px;
+	height: 70px;
+	padding: 5px 5px 5px 5px;
+}
+
+.message3{
+	display: flex;
+	flex-direction: column;
+	margin-left: 10px;
+	line-height: 1px;
+}
+
+.message4{
+	display: flex;
+	justify-content: flex-start;
+}
+
+.nickname2{
+	font-weight: bold;
+	font-size: 17px;
+	margin-right: 5px;
+	margin-bottom: 7px;
+}
+
+.message5{
+	display: flex;
+	justify-content: flex-start;
+	font-size: 5px;
+	color: #888888;
+}
+
+.time{
+	margin-right: 3px;
+}
+
+.paging{
+	display: flex;
+	justify-content: space-between;
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+  color: inherit;
+}
